@@ -29,6 +29,8 @@ Mi nombre es Ignacio Sotelo, tengo 19 años y vivo en Buenos Aires, Argentina.  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/Ignacionahuelsotelo)  
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
