@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola 👋, Ignacio Sotelo
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Ignacionahuelsotelo/Ignacionahuelsotelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Ignacio Sotelo, tengo 19 años y vivo en Buenos Aires, Argentina.  Actualmente estoy transitando el tercer año de la carrera de Licenciatura en Sistemas en la Universidad Nacional General Sarmiento.  Me encanta programar y aprender tecnologías nuevas.
 
-Here are some ideas to get you started:
+Habilidades: Java / C / Python / Go / Postgresql 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en this page. 
+
+
+
+
+
