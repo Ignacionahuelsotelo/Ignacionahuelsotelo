@@ -1,20 +1,25 @@
-## Hola 👋, Ignacio Sotelo
+# Ignacio Sotelo
 
 Mi nombre es Ignacio Sotelo, tengo 19 años y vivo en Buenos Aires, Argentina.  Actualmente estoy transitando el tercer año de la carrera de Licenciatura en Sistemas en la Universidad Nacional General Sarmiento.  Me encanta programar y aprender tecnologías nuevas.
 
-### Habilidades: 
+## Habilidades: 
 
-* Java / Eclipse / Swing / JUnit / GSON
-* C / Go
-* Python / PyScripter
-* DER / Modelo Relacional / PostgreSQL/ JSON 
-* Linux / Bash / Git
+* ♨️ Java / Eclipse / Swing / JUnit / GSON
+* ⚙ C / Go
+* 🐍 Python / PyScripter
+* 💾 DER / Modelo Relacional / PostgreSQL/ JSON 
+* 💻 Linux / Bash / Git
 
+## Actualmente :
 
 - 🔭 Estoy trabajando en en el desarrollo en una aplicación movil para sistemas operativos Android.  
 - 🌱 Estoy aprendiendo a utilizar Android Estudio. 
-- 📫 Cómo contactarme: nachosotelo9@gmail.com 
 - ⚡ En busca de trabajo. 
+
+## Cómo contactarme : 
+
+- 📫 nachosotelo9@gmail.com 
+- 📱 11-3273-7379
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ignacionahuelsotelo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nacho_sotelo01/)
