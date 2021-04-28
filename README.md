@@ -9,11 +9,12 @@ Mi nombre es Ignacio Sotelo, tengo 19 años y vivo en Buenos Aires, Argentina.  
 * 🐍 Python / PyScripter
 * 💾 DER / Modelo Relacional / PostgreSQL/ JSON 
 * 💻 Linux / Bash / Git
+* 🖱 HTML5 / CSS
 
 ## Actualmente :
 
-- 🔭 Estoy trabajando en en el desarrollo en una aplicación movil para sistemas operativos Android.  
-- 🌱 Estoy aprendiendo a utilizar Android Estudio. 
+- 🔭 Estoy desarrollando mi propia pagina Web.  
+- 🌱 Estoy aprendiendo a utilizar JS y .NET Framework. 
 - ⚡ En busca de trabajo. 
 
 ## Cómo contactarme : 
