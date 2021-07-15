@@ -5,11 +5,11 @@ Mi nombre es Ignacio Sotelo, tengo 19 años y vivo en Buenos Aires, Argentina.  
 ## Habilidades: 
 
 * ♨️ Java / Eclipse / Swing / JUnit / GSON
-* ⚙ C / Go
+* ⚙  C# / Go
 * 🐍 Python / PyScripter
-* 💾 DER / Modelo Relacional / PostgreSQL/ JSON 
-* 💻 Linux / Bash / Git
-* 🖱 HTML5 / CSS
+* 💾 DER / Modelo Relacional / PostgreSQL/ MySQL / JSON 
+* 💻 Linux / Bash / Git / Selenium
+* 🖱 HTML5 / CSS / JavaScript
 
 ## Actualmente :
 
